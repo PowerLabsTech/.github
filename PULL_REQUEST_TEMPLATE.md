@@ -1,4 +1,4 @@
-### _Paste the Linear issue ID at the beginning of your PR title to automatically link & track this PR in Linear_ 
+_**Paste the Linear issue ID at the beginning of your PR title to automatically link & track this PR in Linear**_ 
 ### Description
 * **PR Summary**:
 * **Detailed description (2-3 sentences)**:
