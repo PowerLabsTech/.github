@@ -1,5 +1,5 @@
+### _Paste the Linear issue ID at the beginning of your PR title to automatically link & track this PR in Linear_ 
 ### Description
-* **ClickUp Ticket ID Link**: 
 * **PR Summary**:
 * **Detailed description (2-3 sentences)**:
 
@@ -21,7 +21,7 @@ Just write None if not applicable.
 ### How to Test on UI (frontend only)
 <!-- Where applicable, direct users to part of UI where they can see the impact of changes in this PR. -->
 
-### Checklist
+### Checklist (tick all that are applicable)
 #### General
 - [ ] Code adheres to styling guidelines.
 - [ ] Code has been tested and passes all relevant test cases.
